@@ -23,6 +23,7 @@ class GFG
             for(int sum : ans){
                 System.out.print(sum+" ");
             }
+		
             System.out.println();
         }  
     }
